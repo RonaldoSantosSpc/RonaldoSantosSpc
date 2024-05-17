@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonaldoSantosSpc
 - 👀 I’m interested in programação e tecnologia ...
-- 🌱 I’m currently learning programação transição de carreira 
+- 🌱 I’m currently learning programação para, transição de carreira. 
 - 💞️ estudando: Programação em  frontend e backend...Html, Css, JS Github, fullStack
 - 📫 How to reach me https://www.linkedin.com/in/ronaldo-santos-3449191a2/
 - 😄 Pronouns: ...
