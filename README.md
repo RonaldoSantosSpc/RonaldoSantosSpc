@@ -27,6 +27,11 @@ Programador frontend e backend e fullStack elaborando projetos com:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
 <a>
   </p>
+  <a>
+
+    
+  </a>
+   <a href="https://www.instagram.com/spc_nd/"alt="instagram-Spc_nd">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="Instagram"/>
   
   
